@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "campaignId": "neutral-accessory-preview",
+  "evidenceMode": "synthetic",
+  "goal": "Explain a concept accessory preview and ask which verified details readers need next.",
+  "audience": "Provisional audience: outdoor-accessory enthusiasts; not a validated customer segment.",
+  "language": "en",
+  "cta": "Which details would you want confirmed before evaluating this concept?",
+  "channels": ["Facebook", "Reddit", "TikTok", "YouTube", "X", "Instagram", "LinkedIn"],
+  "facts": [
+    {"claim": "This fictional example concerns an illuminated outdoor accessory concept.", "source": "Synthetic case authored for this package; no real product assertion."},
+    {"claim": "Rendered design and bench sample would need separate provenance labels.", "source": "Synthetic workflow input; no bundled media."}
+  ],
+  "unknowns": ["Final specifications", "fitment", "price", "availability", "publisher affiliation", "rights for any future real assets"],
+  "permissions": {
+    "Facebook": {"prepareEditor": true, "submitActor": "user", "authorizationSource": "Synthetic demonstration only; no actual authority."},
+    "Reddit": {"prepareEditor": true, "submitActor": "user", "authorizationSource": "Synthetic demonstration only; no actual authority."},
+    "TikTok": {"prepareEditor": true, "submitActor": "user", "authorizationSource": "Synthetic demonstration only; no actual authority."},
+    "YouTube": {"prepareEditor": true, "submitActor": "user", "authorizationSource": "Synthetic demonstration only; no actual authority."},
+    "X": {"prepareEditor": true, "submitActor": "user", "authorizationSource": "Synthetic demonstration only; no actual authority."},
+    "Instagram": {"prepareEditor": true, "submitActor": "user", "authorizationSource": "Synthetic demonstration only; no actual authority."},
+    "LinkedIn": {"prepareEditor": true, "submitActor": "user", "authorizationSource": "Synthetic demonstration only; no actual authority."}
+  }
+}

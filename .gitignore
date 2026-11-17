@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+offline-demo/
+campaign-a/
+campaign-a-report/
+.env
+.env.*
+*.log

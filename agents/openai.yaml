@@ -1,0 +1,6 @@
+interface:
+  display_name: "七渠道媒体分发"
+  short_description: "从共享事实和素材到七渠道改稿、串行编辑与分层发布核验，支持人工交接和中断恢复"
+  default_prompt: "使用 $multi-channel-media-distribution，基于我的资料制作多渠道传播包，并按当前授权完成审查、编辑交接和结果核验。"
+policy:
+  allow_implicit_invocation: true
