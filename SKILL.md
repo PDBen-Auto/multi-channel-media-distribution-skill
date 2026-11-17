@@ -78,3 +78,11 @@ Example request: “Use $multi-channel-media-distribution to turn this verified 
 Match every requested channel, asset and quality criterion to current evidence. Validate references/hashes, open the report and inspect actual media. Confirm external status independently of local script exit codes. Do not call an author review independent or claim real account tests from the synthetic demo.
 
 Stop the affected action on missing authority, ambiguous publisher relationship, CAPTCHA/OTP, unsupported upload, policy denial, uncertain submission or contradictory evidence. Continue authorized independent work, record the exact limitation and request only the necessary user action. Do not change browser security, attach another account, purchase services or publish to make a blocked test appear successful.
+
+<!-- skill-i18n:start -->
+## Output language and localized operating guides
+
+[简体中文](references/i18n/zh-CN.md) | [English](references/i18n/en.md) | [日本語](references/i18n/ja.md) | [한국어](references/i18n/ko.md) | [Deutsch](references/i18n/de.md) | [Français](references/i18n/fr.md) | [Español](references/i18n/es.md) | [Português](references/i18n/pt.md)
+
+Use the user's explicitly requested output language; otherwise follow the language of the request. Read only the corresponding localized guide when needed. Preserve the workflow, prerequisites, authorization gates, skill IDs, commands, schema keys, enum values, units, original evidence and any language-specific canonical fields. Do not infer marketplace, currency or jurisdiction from language. Localized guides summarize the operating contract; read the relevant canonical references for exact schemas, calculations and stage-specific procedures. Example interfaces, historical evidence and script diagnostics retain their original language unless separately adapted.
+<!-- skill-i18n:end -->
